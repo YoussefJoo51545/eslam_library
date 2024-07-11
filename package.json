@@ -1,0 +1,11 @@
+{
+  "name": "product-filter-section-html-css-js-master",
+  "version": "1.0.0",
+  "main": "fileCounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
